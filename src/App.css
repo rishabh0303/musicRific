@@ -1,0 +1,111 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background: #000;
+  font-family: 'Poppins', sans-serif;
+  font-size: 14px;
+  color:#fff;
+}
+.flex{
+  display: flex;
+}
+.justify-sb{
+  justify-content: space-between;
+}
+.justify-evenly{
+  justify-content: space-evenly;
+}
+.justify-center{
+  justify-content: center;
+}
+.align-center{
+  align-items: center;
+}
+.bb{
+  box-sizing: border-box;
+}
+.m-20{
+  margin:20px;
+}
+.mlr-20{
+  margin: 0 20px;
+}
+.mtb-20{
+  margin: 20px 0;
+}
+.m-10{
+  margin: 10px;
+}
+.mlr-10{
+  margin: 0 10px;
+}
+.mtb-10{
+  margin: 10px 0;
+}
+.m-5{
+  margin:5px
+}
+.mlr-5{
+  margin: 0 5px;
+}
+.mtb-5{
+  margin: 5px 0;
+}
+.p-5{
+  padding: 5px;
+}
+.plr-5{
+  padding: 0 5px;
+}
+.ptb-5{
+  padding: 5px 0;
+}
+.p-10{
+  padding: 10px;
+}
+.plr-10{
+  padding: 0 10px;
+}
+.ptb-10{
+  padding: 10px 0;
+}
+.p-20{
+  padding: 20px;
+}
+.plr-20{
+  padding: 0 20px;
+}
+.ptb-20{
+  padding: 20px 0;
+}
+.app-quote{
+  font-size: 25px;
+}
+li{
+  list-style: none;
+}
+.d-visibility{
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  background: #000;
+  opacity: 0.5;
+  z-index: -1;
+  
+}
+.z-0{
+  z-index: 0;
+}
+.z-1{
+  z-index: 1;
+}
+.z-2{
+  z-index: 2;
+}
+.rel{
+  position: relative;
+}
