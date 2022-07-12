@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/musicRific/static/css/main.52c470d6.css",
+    "main.js": "/musicRific/static/js/main.d0428172.js",
+    "static/js/787.26bf0a29.chunk.js": "/musicRific/static/js/787.26bf0a29.chunk.js",
+    "static/media/footer-bg-1.jpg": "/musicRific/static/media/footer-bg-1.55991210b12e689460ab.jpg",
+    "index.html": "/musicRific/index.html",
+    "main.52c470d6.css.map": "/musicRific/static/css/main.52c470d6.css.map",
+    "main.d0428172.js.map": "/musicRific/static/js/main.d0428172.js.map",
+    "787.26bf0a29.chunk.js.map": "/musicRific/static/js/787.26bf0a29.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52c470d6.css",
+    "static/js/main.d0428172.js"
+  ]
+}
